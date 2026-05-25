@@ -10,9 +10,8 @@
 
 ## 📱 Captures d'écran
 
-| Splash | Connexion | Calculateur | Historique |
-|--------|-----------|-------------|------------|
-| 🖼️ | 🖼️ | 🖼️ | 🖼️ |
+<img src="screenshots/splash_screen.jpg" width="200"> <img src="screenshots/login.jpg" width="200"> <img src="screenshots/register.jpg" width="200">
+<img src="screenshots/calculation_results.jpg" width="200"> <img src="screenshots/historique.jpg" width="200">
 
 ## ✨ Fonctionnalités
 
