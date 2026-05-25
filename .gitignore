@@ -1,0 +1,43 @@
+# Fichiers générés par Android Studio
+*.iml
+.gradle/
+/.idea/
+/local.properties
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+.navigation/
+
+# Fichiers de build
+*.apk
+*.aab
+*.dex
+*.class
+
+# Gradle wrapper (garder gradle-wrapper.jar mais ignorer le reste)
+/gradle/wrapper/gradle-wrapper.jar
+/gradlew
+/gradlew.bat
+
+# Fichiers de configuration utilisateur
+.idea/caches/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/vcs.xml
+.idea/dictionaries
+
+# Fichiers de test
+*.test
+*.mock
+
+# OS
+Thumbs.db
+*.DS_Store
+
+# Keystores (fichiers de signature)
+*.jks
+*.keystore
+*.key
