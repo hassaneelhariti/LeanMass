@@ -41,3 +41,15 @@ Thumbs.db
 *.jks
 *.keystore
 *.key
+
+# Fichiers générés par Android Studio
+app/.gitignore
+app/proguard-rules.pro
+app/src/androidTest/
+app/src/test/
+app/src/main/res/xml/
+app/src/main/java/com/elhariti/leanmass/ui/
+
+# Gradle
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
