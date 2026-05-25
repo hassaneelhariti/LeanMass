@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LeanMass</string>
+    <string name="email_hint">nom@exemple.com</string>
+    <string name="btn_login">SE CONNECTER</string>
+    
+    <string name="error_poids_empty">Entrez votre poids</string>
+    <string name="error_taille_empty">Entrez votre taille</string>
+    <string name="error_poids_invalide">Poids invalide (1-300 kg)</string>
+    <string name="error_taille_invalide">Taille invalide (1-250 cm)</string>
+    
+    <string name="poids_format">%.1f kg</string>
+    <string name="pourcentage_format">%.0f%%</string>
+    
+    <string name="resultat_satisfaisant">Résultat satisfaisant</string>
+    <string name="resultat_a_surveiller">Résultat à surveiller</string>
+    
+    <string name="connectez_vous">Connectez-vous pour enregistrer</string>
+    <string name="enregistre_historique">Enregistré dans l\'historique</string>
+    <string name="enregistre_ok">Enregistré</string>
+    
+    <string name="partage_texte">Mon résultat LeanMass : LBM %.1f kg</string>
+    <string name="partager_titre">Partager</string>
+</resources>
